@@ -1,0 +1,25 @@
+version: '3'
+
+services:
+  database:
+    image: postgres:12
+    container_name: "br_crud_spring_kipper"
+    ports:
+      - "5432:5432"
+    environment:
+      - POSTGRES_PASSWORD=password
+      - POSTGRES_USER=postgres
+      - POSTGRES_DB=crud-spring-kipper
+    command:
+      - "postgres"
+      - "-c"
+      - "effective_cache_size=1024MB"
+    networks:
+      - network-backend
+    volumes:
+      - ./srv/docker/postgresql:/var/lib/postgresql
+      - ./initdb:/docker-entrypoint-initdb.d
+
+networks:
+  network-backend:
+    driver: bridge

@@ -1,0 +1,6 @@
+
+g	java:S112 "FDefine and throw a dedicated exception instead of using a generic one.(Äßù¾ùÿÿÿÿ8ß«¸’Ü1
+z
+java:S1488"]Immediately return this expression instead of assigning it to the temporary variable "token".(íƒÙÕ8à«¸’Ü1
+Ë
+java:S6804"­Either replace the "@Value" annotation with a standard field initialization, use "${propertyName}" to inject a property or use "#{expression}" to evaluate a SpEL expression.(„»‘þ8Âƒ¹’Ü1

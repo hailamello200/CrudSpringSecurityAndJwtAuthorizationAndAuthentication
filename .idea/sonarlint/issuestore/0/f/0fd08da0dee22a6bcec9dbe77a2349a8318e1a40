@@ -1,0 +1,23 @@
+
+g	java:S112,"FDefine and throw a dedicated exception instead of using a generic one.(â„ˆÔşÿÿÿÿ8é§ŞµŞ1
+b	java:S1121"FDefine and throw a dedicated exception instead of using a generic one.(ÿºüü8ê§ŞµŞ1
+a	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(©€„S8ê§ŞµŞ1
+g	java:S112R"FDefine and throw a dedicated exception instead of using a generic one.(â„ˆÔşÿÿÿÿ8ê§ŞµŞ1
+b	java:S112W"FDefine and throw a dedicated exception instead of using a generic one.(ÿºüü8ê§ŞµŞ1
+g	java:S112H"FDefine and throw a dedicated exception instead of using a generic one.(ü¹Åîıÿÿÿÿ8ê§ŞµŞ1
+|
+java:S1192J"_Define a constant instead of duplicating this literal "Occurrence not found with id: " 3 times.(Ü’Ö°8îÓ¯¶Ş1
+f
+java:S1192n"IDefine a constant instead of duplicating this literal "finished" 4 times.(Ç¸¢é8îÓ¯¶Ş1
+n
+java:S1192,"LDefine a constant instead of duplicating this literal " not found." 4 times.(â„ˆÔşÿÿÿÿ8ê§ŞµŞ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ô§ŞµŞ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ô§ŞµŞ1
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ô§ŞµŞ1
+P
+java:S1874u".Remove this use of "getOne"; it is deprecated.(£ÀÓûÿÿÿÿ8ş§ŞµŞ1
+R
+java:S1481‰"5Remove this unused "occurrenceEntity" local variable.(ˆ›¦28ÿ§ŞµŞ1

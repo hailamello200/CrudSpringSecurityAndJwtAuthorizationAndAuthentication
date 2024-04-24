@@ -1,0 +1,13 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8üàâ¿Ü1
+P
+java:S6856".Bind path variable "id" to a method parameter.(ªä´«øÿÿÿÿ8¹€ã¿Ü1
+P
+java:S6837%"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8ƒœä¿Ü1
+P
+java:S6837+"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8ƒœä¿Ü1
+P
+java:S68372"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8ƒœä¿Ü1
+P
+java:S68378"3Remove this superfluous "@ResponseBody" annotation.(Ü¥¼8ƒœä¿Ü1
